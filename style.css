@@ -12,7 +12,7 @@ body{
 }
 .header {
   padding: 60px;
-  text-align: center;
+  text-align: right;
   background: #111;
   color: white;
   font-size: 30px;
@@ -28,6 +28,7 @@ body{
 .container img {
   width: 50%;
   height: auto;
+  align: center;
 }
 
 .container .btn {
