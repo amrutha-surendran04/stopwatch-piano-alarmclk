@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 body {
-  background: "bg.jpg";
+  background-image: url('bg.jpg');
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size:100px;
 }
